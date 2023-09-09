@@ -1,2 +1,5 @@
 # syntonix.azadad.dev
-my website
+
+If you use it please let the credits there
+
+just remove everything you don't need
